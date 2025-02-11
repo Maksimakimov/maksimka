@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: black;
+}
+
+.text {
+color: whitesmoke;
+
+}
+.textA {
+    color: whitesmoke;
+}
+.text-with-border {
+    border: 3px dotted red;
+    border-radius: 10px;
+  }
+  .texts {
+    color: grey;
+  }
